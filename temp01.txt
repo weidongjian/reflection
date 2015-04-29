@@ -1,1 +1,3 @@
 saf
+
+add easy-mode branch message
